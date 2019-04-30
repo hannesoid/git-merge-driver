@@ -28,3 +28,8 @@ git commit -m "demo-branch-2: added TESTINGSUGGESTIONS.md"
 
 # Merge the two branches, causing a conflict
 git merge -m "Merged in demo-branch-1" demo-branch-1
+
+git checkout mindnode-merger
+git branch -D demo-branch-1
+git branch -D demo-branch-2
+
