@@ -1,1 +1,1 @@
-*.mrg merge=my-custom-driver
+TESTINGSUGGESTIONS.md merge=testingsuggestions-merge-driver
